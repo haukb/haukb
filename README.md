@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haukb
-- 👀 I’m interested in data science, renewable and mountains 🗻
+- 👀 I’m interested in data science, renewables and mountains 🗻
 - 🌱 I’m currently learning Rust 🦀
 
 <!---
