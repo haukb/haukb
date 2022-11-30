@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haukb
 - 👀 I’m interested in data science, renewables and mountains 🗻
-- 🌱 I’m currently learning Rust 🦀
+- 🌱 I’m currently learning Front-end (next-js, react)
 
 <!---
 haukb/haukb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
